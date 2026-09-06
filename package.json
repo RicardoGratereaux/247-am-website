@@ -1,0 +1,8 @@
+{
+  "name": "247-am-site",
+  "private": true,
+  "scripts": {
+    "dev": "node scripts/preview.mjs",
+    "test": "node --test tests/*.test.mjs"
+  }
+}
